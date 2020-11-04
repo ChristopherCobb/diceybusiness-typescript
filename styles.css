@@ -1,0 +1,55 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  img {
+    margin-left: 38em;
+    height: 225px;
+    width: 225px;
+  }
+  
+  #containerDiv {
+    justify-content: center;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #diceDiv {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  #roll-dice-btn {
+    margin-left: 100px;
+  }
+  
+  #dice-sum-btn {
+    margin-left: 100px;
+  }
+  
+  #advanced-btn {
+      margin-left: 100px;
+  }
+  
+  .dice {
+    height: 100px;
+    width: 100px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    color: black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    align-items: center;
+    border-width: 1px;
+    border: solid;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+  }
+  
